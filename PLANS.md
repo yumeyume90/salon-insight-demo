@@ -67,6 +67,13 @@
 
 - T7: Google Fonts の `@import` は削除せず残す（ユーザー判断）。完了条件の「外部通信のコードが存在しない」は、AI API・データ送信がないという意味で読み、フォント取得は例外とする
 
+## デプロイ記録（2026-10-21）
+
+- 公開先: Streamlit Community Cloud（https://salon-insight-demo.streamlit.app/）。リポジトリ `yumeyume90/salon-insight-demo`、`main`、Public。pushはユーザーが実行
+- つまずき: 初回デプロイの Main file path が `demo_data/make_sample_pdfs.py` になっており、画面が真っ白になった（ログの `main module:` で判明）。Main file path は作成後に変更できないため、アプリを削除して `app.py` を指定して作り直し、表示を確認
+- Cloud 側の Python は 3.14.8。依存は `requirements.txt` の固定版でインストール成功（pyarrow 25 は Cloud 側が自動で 24 に差し替え）
+- 手順メモ: デプロイ時は Main file path に `app.py` を指定する。真っ白になったら、まず Manage app のログ1行目の `main module:` を確認する
+
 ## 未確定・要確認
 
 - 本番の店舗名（grep用）を提供してもらうか。未提供ならパターン検索のみ
