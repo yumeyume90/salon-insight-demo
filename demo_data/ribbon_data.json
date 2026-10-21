@@ -1,0 +1,4544 @@
+{
+  "demographics": {
+    "female_pct": 71.8,
+    "male_pct": 26.1,
+    "unknown_gender_pct": 2.1,
+    "age_pct": {
+      "20代未満": 7.8,
+      "20代": 37.8,
+      "30代": 31.4,
+      "40代": 14.9,
+      "50代以上": 7.0,
+      "未設定": 1.1
+    }
+  },
+  "top_segments": {
+    "new_customer": [
+      {
+        "age_band": "20代",
+        "gender": "女性",
+        "percentage": 25.6
+      },
+      {
+        "age_band": "30代",
+        "gender": "女性",
+        "percentage": 17.8
+      },
+      {
+        "age_band": "20代",
+        "gender": "男性",
+        "percentage": 8.4
+      },
+      {
+        "age_band": "40代",
+        "gender": "女性",
+        "percentage": 6.8
+      },
+      {
+        "age_band": "30代",
+        "gender": "男性",
+        "percentage": 6.1
+      }
+    ],
+    "repeat_customer": [
+      {
+        "age_band": "30代",
+        "gender": "女性",
+        "percentage": 26.8
+      },
+      {
+        "age_band": "20代",
+        "gender": "女性",
+        "percentage": 18.5
+      },
+      {
+        "age_band": "40代",
+        "gender": "女性",
+        "percentage": 12.1
+      },
+      {
+        "age_band": "30代",
+        "gender": "男性",
+        "percentage": 6.5
+      },
+      {
+        "age_band": "50代以上",
+        "gender": "女性",
+        "percentage": 4.9
+      }
+    ]
+  },
+  "capacity": {
+    "slots": [
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "10:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "11:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "11:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "12:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "12:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "13:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "13:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "14:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "14:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "15:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "16:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "17:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "18:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "18:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "19:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "19:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-01",
+        "weekday": "木",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "09:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "09:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "11:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "11:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "12:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "12:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "13:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "13:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "14:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "14:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "15:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "15:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "16:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "17:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "17:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "18:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "19:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "19:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-02",
+        "weekday": "金",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "09:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "10:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "11:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "11:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "12:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "13:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "13:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "14:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "14:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "15:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "16:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "17:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "17:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "18:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-03",
+        "weekday": "土",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "09:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "10:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "10:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "11:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "11:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "12:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "13:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "13:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "14:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "14:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "15:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "16:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "16:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "17:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "18:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-04",
+        "weekday": "日",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "09:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "09:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "10:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "10:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "11:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "11:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "12:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "12:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "13:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "13:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "14:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "14:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "15:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "15:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "16:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "16:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "17:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "17:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "18:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "18:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-05",
+        "weekday": "月",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "11:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "11:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "12:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "13:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "13:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "14:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "14:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "15:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "17:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "18:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "18:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "19:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "19:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-06",
+        "weekday": "火",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "09:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "09:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "10:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "11:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "11:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "12:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "13:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "13:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "14:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "14:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "15:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "15:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "17:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "18:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "18:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "19:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "19:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-07",
+        "weekday": "水",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "11:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "11:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "12:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "13:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "13:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "14:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "14:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "15:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "17:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "17:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "18:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "19:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "19:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-08",
+        "weekday": "木",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "09:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "11:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "11:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "12:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "12:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "13:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "13:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "14:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "14:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "15:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "15:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "16:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "16:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "17:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "17:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "19:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "19:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-09",
+        "weekday": "金",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "10:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "11:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "11:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "12:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "12:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "13:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "13:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "14:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "14:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "15:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "15:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "17:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "17:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-10",
+        "weekday": "土",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "09:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "09:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "10:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "11:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "11:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "12:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "12:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "13:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "13:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "14:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "14:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "15:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "15:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "16:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "16:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "17:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "17:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "18:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "18:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-11",
+        "weekday": "日",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "09:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "09:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "10:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "10:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "11:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "11:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "12:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "12:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "13:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "13:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "14:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "14:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "15:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "15:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "16:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "16:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "17:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "17:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "18:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "18:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-12",
+        "weekday": "月",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "10:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "10:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "11:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "11:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "12:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "12:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "13:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "13:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "14:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "14:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "15:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "16:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "17:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "18:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "19:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "19:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-13",
+        "weekday": "火",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "10:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "10:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "11:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "11:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "12:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "13:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "13:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "14:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "14:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "15:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "17:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "18:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "19:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "19:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-14",
+        "weekday": "水",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "09:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "09:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "11:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "11:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "12:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "12:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "13:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "13:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "14:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "14:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "15:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "15:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "16:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "17:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "17:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "18:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "19:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "19:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-15",
+        "weekday": "木",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "09:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "10:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "11:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "11:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "12:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "12:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "13:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "13:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "14:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "14:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "15:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "15:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "16:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "16:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "17:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "19:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "19:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-16",
+        "weekday": "金",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "09:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "09:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "10:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "11:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "11:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "12:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "12:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "13:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "13:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "14:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "14:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "15:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "16:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "16:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "17:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "17:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "18:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-17",
+        "weekday": "土",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "09:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "10:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "10:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "11:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "11:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "12:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "12:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "13:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "13:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "14:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "14:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "15:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "16:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "16:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "17:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-18",
+        "weekday": "日",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "09:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "09:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "10:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "10:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "11:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "11:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "12:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "12:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "13:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "13:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "14:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "14:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "15:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "15:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "16:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "16:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "17:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "17:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "18:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "18:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-19",
+        "weekday": "月",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "10:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "11:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "11:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "12:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "13:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "13:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "14:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "14:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "15:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "17:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "18:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "19:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "19:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-20",
+        "weekday": "火",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "10:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "11:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "11:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "12:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "13:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "13:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "14:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "14:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "15:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "16:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "17:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "17:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "18:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "18:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "19:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "19:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-21",
+        "weekday": "水",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "09:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "10:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "10:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "11:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "11:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "12:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "13:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "13:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "14:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "14:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "15:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "15:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "16:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "17:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "17:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "18:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "18:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "19:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "19:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-22",
+        "weekday": "木",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "09:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "10:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "11:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "11:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "12:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "13:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "13:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "14:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "14:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "15:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "15:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "16:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "16:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "17:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "17:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "18:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "19:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "19:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-23",
+        "weekday": "金",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "10:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "10:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "11:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "11:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "12:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "12:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "13:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "13:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "14:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "14:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "15:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "15:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "16:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "16:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "17:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "18:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-24",
+        "weekday": "土",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "09:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "10:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "10:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "11:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "11:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "12:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "13:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "13:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "14:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "14:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "15:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "15:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "16:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "16:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "17:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "17:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "18:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-25",
+        "weekday": "日",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "09:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "09:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "10:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "10:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "11:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "11:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "12:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "12:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "13:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "13:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "14:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "14:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "15:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "15:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "16:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "16:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "17:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "17:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "18:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "18:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-26",
+        "weekday": "月",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "09:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "10:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "11:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "11:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "12:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "13:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "13:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "14:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "14:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "15:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "16:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "17:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "19:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "19:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-27",
+        "weekday": "火",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "09:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "09:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "10:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "11:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "11:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "12:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "12:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "13:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "13:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "14:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "14:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "15:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "16:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "17:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "19:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "19:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-28",
+        "weekday": "水",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "11:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "11:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "12:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "12:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "13:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "13:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "14:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "14:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "15:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "15:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "17:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "17:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "18:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "19:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "19:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-29",
+        "weekday": "木",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "09:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "09:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "10:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "10:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "11:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "11:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "12:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "12:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "13:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "13:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "14:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "14:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "15:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "15:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "16:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "17:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "17:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "18:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "19:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "19:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-30",
+        "weekday": "金",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "09:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "09:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "10:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "10:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "11:00",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "11:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "12:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "12:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "13:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "13:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "14:00",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "14:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "15:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "15:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "16:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "16:30",
+        "status": "残キャパ50%-20%"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "17:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "17:30",
+        "status": "残キャパ50%以上"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "18:00",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "18:30",
+        "status": "残キャパ20%未満"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "19:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "19:30",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "20:00",
+        "status": "営業時間外"
+      },
+      {
+        "date": "2026-10-31",
+        "weekday": "土",
+        "time_label": "20:30",
+        "status": "営業時間外"
+      }
+    ],
+    "status_ratio": {
+      "残キャパ50%以上": 29.9,
+      "残キャパ50%-20%": 39.6,
+      "残キャパ20%未満": 30.6
+    }
+  }
+}

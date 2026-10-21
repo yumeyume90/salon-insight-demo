@@ -1,0 +1,17 @@
+# 認証情報
+.env
+.env.*
+secrets*
+.streamlit/secrets.toml
+
+# 実データ（このデモには含めない）
+sample_data/private/
+uploads/
+*.private.pdf
+tests/fixtures/reference_values.json
+
+# 環境・生成物
+__pycache__/
+.pytest_cache/
+.venv/
+.DS_Store

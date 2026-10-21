@@ -1,0 +1,134 @@
+{
+  "current": {
+    "period": "2026-09",
+    "is_in_progress": true,
+    "entries": [
+      {
+        "category": "特集",
+        "label": "初夏の新色カラー特集",
+        "coupon_name": "【新規】カット+透明感カラー ¥8,800",
+        "clicks": 25
+      },
+      {
+        "category": "特集",
+        "label": "初夏の新色カラー特集",
+        "coupon_name": "【新規】カット+フルカラー ¥7,700",
+        "clicks": 26
+      },
+      {
+        "category": "特集",
+        "label": "髪質改善特集",
+        "coupon_name": "【新規】カット+髪質改善トリートメント ¥11,000",
+        "clicks": 15
+      },
+      {
+        "category": "特集",
+        "label": "髪質改善特集",
+        "coupon_name": "【全員】髪質改善ストレート+カット ¥18,700",
+        "clicks": 8
+      },
+      {
+        "category": "特集",
+        "label": "メンズ特集",
+        "coupon_name": "【メンズ】カット+眉カット ¥4,400",
+        "clicks": 11
+      },
+      {
+        "category": "こだわり",
+        "label": "駅から徒歩3分",
+        "coupon_name": "【平日限定】カット ¥4,950",
+        "clicks": 12
+      },
+      {
+        "category": "こだわり",
+        "label": "レイヤーカットが得意",
+        "coupon_name": "【新規】レイヤーカット+ケアブロー ¥5,500",
+        "clicks": 15
+      },
+      {
+        "category": "こだわり",
+        "label": "ダメージレス施術",
+        "coupon_name": "【新規】カット+ハイライト ¥13,200",
+        "clicks": 6
+      },
+      {
+        "category": "ブログ",
+        "label": "秋色ヘアカタログ",
+        "coupon_name": "【ブログ限定】カット+アッシュカラー ¥8,250",
+        "clicks": 8
+      },
+      {
+        "category": "ブログ",
+        "label": "前髪カットのコツ",
+        "coupon_name": "【前髪カット】前髪のみ ¥1,100",
+        "clicks": 5
+      }
+    ]
+  },
+  "previous": {
+    "period": "2026-08",
+    "is_in_progress": false,
+    "entries": [
+      {
+        "category": "特集",
+        "label": "初夏の新色カラー特集",
+        "coupon_name": "【新規】カット+透明感カラー ¥8,800",
+        "clicks": 46
+      },
+      {
+        "category": "特集",
+        "label": "初夏の新色カラー特集",
+        "coupon_name": "【新規】カット+フルカラー ¥7,700",
+        "clicks": 43
+      },
+      {
+        "category": "特集",
+        "label": "髪質改善特集",
+        "coupon_name": "【新規】カット+髪質改善トリートメント ¥11,000",
+        "clicks": 33
+      },
+      {
+        "category": "特集",
+        "label": "髪質改善特集",
+        "coupon_name": "【全員】髪質改善ストレート+カット ¥18,700",
+        "clicks": 10
+      },
+      {
+        "category": "特集",
+        "label": "メンズ特集",
+        "coupon_name": "【メンズ】カット+眉カット ¥4,400",
+        "clicks": 22
+      },
+      {
+        "category": "こだわり",
+        "label": "駅から徒歩3分",
+        "coupon_name": "【平日限定】カット ¥4,950",
+        "clicks": 20
+      },
+      {
+        "category": "こだわり",
+        "label": "レイヤーカットが得意",
+        "coupon_name": "【新規】レイヤーカット+ケアブロー ¥5,500",
+        "clicks": 20
+      },
+      {
+        "category": "こだわり",
+        "label": "ダメージレス施術",
+        "coupon_name": "【新規】カット+ハイライト ¥13,200",
+        "clicks": 9
+      },
+      {
+        "category": "ブログ",
+        "label": "秋色ヘアカタログ",
+        "coupon_name": "【ブログ限定】カット+アッシュカラー ¥8,250",
+        "clicks": 13
+      },
+      {
+        "category": "ブログ",
+        "label": "前髪カットのコツ",
+        "coupon_name": "【前髪カット】前髪のみ ¥1,100",
+        "clicks": 9
+      }
+    ]
+  }
+}
